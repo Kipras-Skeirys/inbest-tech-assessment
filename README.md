@@ -1,6 +1,6 @@
 # Getting Started with Postcode Lookup App
 
-Try a  live demo here: [skeirys.com/inbest](https://skeirys.com/inbest)
+Try a  live demo here: [inbest.skeirys.com](https://inbest.skeirys.com/)
 
 ## Table of Contents
 
